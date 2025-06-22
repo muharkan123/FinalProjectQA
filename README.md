@@ -4,7 +4,7 @@
 
 This repository showcases my final project, a culmination of all the skills and techniques I've mastered during the SanberCode QA Bootcamp. It's designed to highlight the power of Cypress, one of the most popular frameworks for end-to-end testing in modern web applications.
 
-📌 Project Overview
+## Project Overview📌 
 
 This project is a fully automated testing suite built using Cypress, demonstrating the ability to:
 
@@ -14,15 +14,15 @@ This project is a fully automated testing suite built using Cypress, demonstrati
     - Handle test data efficiently for data-driven testing scenarios.
     - Integrate CI/CD pipelines to ensure seamless testing workflows.
 
-##🚦 Getting Started
+## Getting Started🚦
 
 Clone this repository and run the project on your local machine to see the power of Cypress in action!
-#install dependencies :
+# install dependencies :
 
     - npm install  
-#Open the Cypress Test Runner :
+# Open the Cypress Test Runner :
 
     - npx cypress open  
-#Run tests directly or in headless mode :
+# Run tests directly or in headless mode :
     
     - npx cypress run  
