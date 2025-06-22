@@ -1,4 +1,4 @@
-### Cypress Automation for QA Bootcamp Final Project
+# Cypress Automation for QA Bootcamp Final Project
 
 🚀 Welcome to the Final Project Repository for SanberCode QA Bootcamp! 🚀
 
@@ -17,12 +17,12 @@ This project is a fully automated testing suite built using Cypress, demonstrati
 ## Getting Started🚦
 
 Clone this repository and run the project on your local machine to see the power of Cypress in action!
-# install dependencies :
+### install dependencies :
 
     - npm install  
-# Open the Cypress Test Runner :
+### Open the Cypress Test Runner :
 
     - npx cypress open  
-# Run tests directly or in headless mode :
+### Run tests directly or in headless mode :
     
     - npx cypress run  
